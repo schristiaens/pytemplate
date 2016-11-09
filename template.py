@@ -4,8 +4,8 @@
 #TODO Set global vars.
 VERSION = "0.1"
 PROG_NAME = "template"
-PROG_DESC = "TheTwitchy standard Python template."
-PROG_EPILOG = "Written by TheTwitchy. Source available at github.com/TheTwitchy/pytemplate"
+PROG_DESC = "redsteve standard Python template."
+PROG_EPILOG = "Template by TheTwitchy. Program by redsteve. Source available at github.com/schristiaens/"
 DEBUG = True
 
 #Application imports.
